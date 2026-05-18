@@ -209,6 +209,11 @@ Two-page interactive dashboard built in **Power BI Desktop** (`Customer_behaviou
 
 ### Dashboard Preview
 
+![Overview Dashboard](/<img width="1230" height="686" alt="Dashboard1" src="https://github.com/user-attachments/assets/91ad2b05-322f-416b-9608-ffb10ba8c004" />
+)
+![Product Analysis](/<img width="1231" height="688" alt="Dashboard2" src="https://github.com/user-attachments/assets/6dbaeb05-3ab3-4bbc-b764-d8dba24c5388" />
+)
+
 > 📊 *5,000 customers | 30 unique items | $994.18K total spend | 3.62 avg rating*
 
 ---
